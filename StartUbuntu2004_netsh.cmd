@@ -1,1 +1,1 @@
-netsh interface ip add address "vEthernet (WSL)" 192.168.50.10 255.255.255.0
+netsh interface ip add address "vEthernet (WSL)" %1 255.255.255.0
